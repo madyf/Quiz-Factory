@@ -44,3 +44,23 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+# To do
+
+- [ ] multiple choice
+  - [ ] format / data
+  - [ ] element to ask q
+  - [ ] element to create q
+- [ ] make quiz component
+- [ ] home page
+- [ ] an about page or how to
+- [ ] create quiz button
+  - [ ] brings to create quiz menu
+- [ ] quiz menu
+  - [ ] name
+  - [ ] description
+  - [ ] time
+  - [ ] number of question
+  - [ ] ranking
+  - [ ] quiz styling
